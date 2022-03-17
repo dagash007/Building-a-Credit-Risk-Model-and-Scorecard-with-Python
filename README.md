@@ -1,1 +1,1 @@
-# Building-a-Credit-Risk-Model-and-Scorecard-with-Python
+# Building-A-Credit-Risk-Model-&-Scorecard-with-Python
